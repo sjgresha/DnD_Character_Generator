@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 2rem;
+    background-color: #f4f4f4;
+}
+
+h1 {
+    color: #333;
+}
+
+button {
+    padding: 0.5rem 1rem;
+    font-size: 1rem;
+    margin-bottom: 1rem;
+    cursor: pointer;
+}
+
+.score {
+    background: #fff;
+    padding: 1rem;
+    border-radius: 8px;
+    margin-bottom: .5rem;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
